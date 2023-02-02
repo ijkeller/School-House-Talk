@@ -10,7 +10,7 @@
 
 ### Problem Domain
 
-School House Talk will act as a single source of truth for communication and information about school activities and events between faculty and parents.
+School House Talk is a communication platform focused on student extracurriculars and featuring a SQL database for sporting events. Built with JavaScript and express.
 
 ### Libraries, Packages, & System Requirements : AuthO, Node.JS, Axios, Base-64, BCrypt, Chance, Express, Heroku, Inquirer, Postgres, Sequelize, Jest, Socket.io, Socket.io-client, Supertest
 
